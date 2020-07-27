@@ -31,3 +31,6 @@ output "vm_public_ip" {
 output "vm_private_ips" {
     value = module.mycompute.network_interface_private_ip
 }
+
+    
+    
