@@ -16,7 +16,7 @@ module mycompute {
 
 module "network" {
     source = "Azure/network/azurerm"
-    location = "East US 2"
+    #location = "East US 2"
     resource_group_name = "myResourceGroup"
 }
 
