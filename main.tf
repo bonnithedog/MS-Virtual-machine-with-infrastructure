@@ -1,4 +1,4 @@
-#File terraform_azure.tf
+#File main.tf
 #https://docs.microsoft.com/en-us/azure/developer/terraform/create-linux-virtual-machine-with-infrastructure
 
 module mycompute {
